@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+###Favorite Books: 
+* Andy Weir's Martin
+* Mank Manson's The Art of not Givng a F*ck
+* Anything from Lee Childs
