@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Some of my awesome attributes
+- _Strategic_
+- __Java__
+- __Saleforce__
+- __Slack__
+- __Trello__
